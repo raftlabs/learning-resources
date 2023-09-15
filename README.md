@@ -45,9 +45,37 @@ At RaftLabs, we use Git for version control. All our repositories are on Github.
 
 - Using Github with VS Code - In [this course](https://youtu.be/LdSwWxVzUpo), you will learn how to use Github neatly with VS Code. We use GitHub internally, and we want to save our developers time by not having to go to the browser to create a pull request and get it reviewed by the manager. Instead, you can do that directly in VSCode.
 
+#### Nx Workspace
+
+At RaftLabs, we use [Nx Workspace](https://nx.dev/) and its important for you to understand it thoroughly. Nx Workspace is a mono repo framework that allows you to manage multiple apps and libraries in a single repository. You will also refresh your knowledge or learn new things about React.
+
+[This course](https://youtube.com/playlist?list=PLakNactNC1dH38AfqmwabvOszDmKriGco) will help you understand the project structure we follow when using a mono repo architecture. This architecture helps in handling multiple apps in a single repository with a single package.json.
+
 ---
 
 ### Front-end Development
+
+At RaftLabs, we use React for all front-end work. Whether we go with CRA approach or NextJS depends on the need of the project. Make sure you go over these courses to understand how we use React in our projects.
+
+- React for Beginners - If you are new to React and need to get started with it, [this course](https://raftmediasystems-my.sharepoint.com/:f:/g/personal/team_raftlabs_co/Eu0QFrnw5t9Fq7_uJfBGPDABEnq0P0q4GlwLf7yOMFUQQg?e=W9Y4O8) is for you.
+
+- Intermediate React - [This course](https://raftmediasystems-my.sharepoint.com/:f:/g/personal/team_raftlabs_co/EqDJFOIeaC5EuEsI27UN6vABtsbpRBz1YMsJOUvWj-jVBA?e=gWVfwb) will give you a more in-depth understanding of React.
+
+#### CSS
+
+CSS is an essential language for the front-end development. It's important to understand UI and create any UI with incredible responsiveness. Understanding basic CSS and advanced CSS is necessary to create a beautiful and sustainable UI. Although with the help of Tailwind, we don't need to code raw CSS anymore, understanding what works under the hood is always good to have.
+
+- Advances CSS Layouts - [This course](https://raftmediasystems-my.sharepoint.com/:f:/g/personal/team_raftlabs_co/Eojprx73I_VGqj8GCWEGeEMBoOeazIUjtNKCnaOUcwDS0Q?e=FuDNyR) gives you a better understanding of layouts and reusing and making any complex design into responsive pages.
+
+- In-Depth CSS - [This course](https://raftmediasystems-my.sharepoint.com/:f:/g/personal/team_raftlabs_co/Eojprx73I_VGqj8GCWEGeEMBoOeazIUjtNKCnaOUcwDS0Q?e=FuDNyR) gets in-depth with each CSS property and helps you break down each part of each property in CSS.
+
+- TailwindCSS - [The course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) helps you to understand how to use Tailwind CSS and how to utilise each class properly.
+
+#### GraphQL
+
+As we use GraphQL for our CRUD operations through Hasura’s GraphQL API engine, you will need to learn about how to use GraphQL in our frontend - React Apps. On this last day, you will learn the basics of GraphQL for React.
+
+Go over [this course](https://www.youtube.com/playlist?list=PLTRTpHrUcSB9r_B0bI_j_JZMkUMS9Wea-) to understand it completely.
 
 ---
 
